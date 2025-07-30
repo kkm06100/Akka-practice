@@ -1,3 +1,5 @@
+package example1
+
 import akka.actor.typed.ActorSystem
 
 object Main {
